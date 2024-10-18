@@ -2,8 +2,8 @@
 
 
 global.owner = [
-  "6281227848422", //should start with country code
-  "6285781110309"
+  "628xxxxx", //should start with country code
+  "62xxxx"
 ]
 
 
