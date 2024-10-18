@@ -1,0 +1,148 @@
+[
+  {
+    "category": "ROOM TOURNAMENT",
+    "name": "Paket By One / Couple / 1 Match (2 Player)",
+    "price": 20000
+  },
+  {
+    "category": "ROOM TOURNAMENT",
+    "name": "Paket Solo Player / 1 Match (1 Player)",
+    "price": 20000
+  },
+  {
+    "category": "ROOM TOURNAMENT",
+    "name": "Room Tournament / 1 Match (10 Player)",
+    "price": 25000
+  },
+  {
+    "category": "ROOM TOURNAMENT",
+    "name": "Room Tournament / 1 Jam (10 Player)",
+    "price": 40000
+  },
+  {
+    "category": "STARLIGHT GIFT",
+    "name": "Starlight Pre Order - November",
+    "price": 32000
+  },
+  {
+    "category": "STARLIGHT GIFT",
+    "name": "Starlight November - No Preorder",
+    "price": 34500
+  },
+  {
+    "category": "STARLIGHT GIFT",
+    "name": "Paket Promo 3 Starlight - November",
+    "price": 100000
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "86 DM BRAZIL",
+    "price": 17300
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "172 DM BRAZIL",
+    "price": 30879
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "257 DM BRAZIL",
+    "price": 46248
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "344 DM BRAZIL",
+    "price": 61759
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "430 DM BRAZIL",
+    "price": 78961
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "516 DM BRAZIL",
+    "price": 92638
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "602 DM BRAZIL",
+    "price": 109841
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "706 DM BRAZIL",
+    "price": 123659
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "Weekly BRL x1",
+    "price": 19740
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "Weekly BRL x2",
+    "price": 39481
+  },
+  {
+    "category": "MLBB BRAZIL",
+    "name": "Weekly BRL x3",
+    "price": 59221
+  },
+  {
+    "category": "TELEGRAM STAR",
+    "name": "50 Telegram Star",
+    "price": 13000
+  },
+  {
+    "category": "TELEGRAM STAR",
+    "name": "100 Telegram Star",
+    "price": 27500
+  },
+  {
+    "category": "TELEGRAM STAR",
+    "name": "150 Telegram Star",
+    "price": 40000
+  },
+  {
+    "category": "TELEGRAM STAR",
+    "name": "250 Telegram Star",
+    "price": 67000
+  },
+  {
+    "category": "TELEGRAM STAR",
+    "name": "350 Telegram Star",
+    "price": 93000
+  },
+  {
+    "category": "TELEGRAM STAR",
+    "name": "500 Telegram Star",
+    "price": 131000
+  },
+  {
+    "category": "TELEGRAM STAR",
+    "name": "750 Telegram Star",
+    "price": 195000
+  },
+  {
+    "category": "TELEGRAM STAR",
+    "name": "1000 Telegram Star",
+    "price": 250000
+  },
+  {
+    "category": "TELEGRAM PREMIUM",
+    "name": "3 Bulan Premium",
+    "price": 192000
+  },
+  {
+    "category": "TELEGRAM PREMIUM",
+    "name": "6 Bulan Premium",
+    "price": 270000
+  },
+  {
+    "category": "TELEGRAM PREMIUM",
+    "name": "1 Tahun Premium",
+    "price": 470000
+  }
+
+]
